@@ -48,7 +48,7 @@ Your use of Discord remains subject to Discord's own Terms of Service and applic
 
 Our collection and processing of information are described in our Privacy Policy:
 
-https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/privacy
+(https://github.com/AnNgTv/Privacy-Policy)
 
 By using our services, you acknowledge that you have read our Privacy Policy.
 
